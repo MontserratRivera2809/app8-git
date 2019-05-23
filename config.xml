@@ -5,14 +5,13 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.ponegab.app8"
 version ="1.0.0">
 
-<name>app-8-Maps</name>
+<name>MAPS</name>
 
 <description>
-Localizacion con Google y GPS
 </description>
 
-<author href="https://build.phonegap.com" email="montse.floresrv@gmail.com">
-Flores Rivera Montserrat
+<author href="https://build.phonegap.com" email="cb16.hernandezpastranaemiliano@gmail.com">
+Emiliano Hernandez Pastrana
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
@@ -44,5 +43,6 @@ Flores Rivera Montserrat
 <!--Colocar icono de la app-->
 
 <icon src="res/android/mdpi.png"/>
+
 
 </widget>
